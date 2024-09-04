@@ -1,0 +1,9 @@
+{
+  "name": "Portfolio Ayrton",
+  "short_name": "PA",
+  "description": "A short introduction to myself",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#ffffff"
+}
